@@ -1,0 +1,55 @@
+.clock{
+    text-align: center;
+    color: red;
+    font-style: italic;
+    background-color:yellowgreen;
+}
+.login{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: brown;
+}
+.form label{
+    font-weight: bold;
+    color: green;
+}
+.form input{
+    border: 1px solid green;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table-messege{
+  margin-top: 18%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+td, th {
+    border: 1px solid #ddddddf5;
+    text-align: left;
+    padding: 8px;
+  }
+  thead tr{
+    background-color: rgba(0, 0, 255, 0.816);
+    color: white;
+    text-decoration: underline;
+  }
+  tbody td{
+    background-color: rgba(0, 0, 255, 0.466);
+  }
+  .form-css{
+    border: 1px solid green;
+  }
+
+  .namelist{
+    color: rgb(245, 177, 7);
+  }
+  select{
+    width: 100px;
+  }
+  td{
+    text-align: center;
+  }
